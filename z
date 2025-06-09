@@ -1,7 +1,7 @@
 CHARACTER_TEMPLATE/
 ├── emotion/
 │   ├── joy/
-│   │   ├── Lv1_smile_soft/
+│   │   ├── Lv1_smile_soft/dummy/txt
 │   │   ├── Lv2_smile_normal/
 │   │   ├── Lv2_grin_naughty/
 │   │   ├── Lv3_tears_of_joy/
