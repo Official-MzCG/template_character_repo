@@ -1,0 +1,25 @@
+CHARACTER_TEMPLATE/
+├── emotion/
+│   ├── joy/
+│   │   ├── Lv1_smile_soft/
+│   │   ├── Lv2_smile_normal/
+│   │   ├── Lv2_grin_naughty/
+│   │   ├── Lv3_tears_of_joy/
+│   │   └── Lv3_joy_jump/
+│   │
+│   ├── anger/
+│   │   ├── Lv1_pout/
+│   │   ├── Lv2_frown/
+│   │   └── Lv3_shouting/
+│   │
+│   ├── sadness/
+│   │   ├── Lv1_downcast/
+│   │   ├── Lv2_teary/
+│   │   └── Lv3_crying/
+│   │
+│   └── neutral/
+│       └── default_face/
+│
+├── list.json (← アクション読み込み用)
+├── .keep (空フォルダ維持用)
+└── README.md
